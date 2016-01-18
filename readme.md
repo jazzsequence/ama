@@ -8,7 +8,7 @@ When I'm not working, I [blog](https://jazzsequence.com) -- sometimes about my [
 
 **Ask me anything.**
 
-Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
+Anything means *anything*. Personal questions. Money. Work. Life. Music. Code. Whatever.
 
 -
 
