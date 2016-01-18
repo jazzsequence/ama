@@ -2,7 +2,11 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
-I get a lot of questions by email. This way anyone can read the answer!
+I'm a WordPress developer lead for [WebDevStudios](https://webdevstudios.com). I build [http://profiles.wordpress.org/jazzs3quence](plugins and themes). I also create [https://www.pluralsight.com/authors/chris-reynolds](online training courses) for [Pluralsight](http://pluralsight.com).
+
+When I'm not working, I [https://jazzsequence.com](blog) -- sometimes about my [http://rsl.com](favorite soccer team) on a [http://www.rslsoapbox.com/authors/chris-reynolds](fan-driven blog) on [http://sbnation.com](SB Nation) called [http://rslsoapbox.com](RSL Soapbox). I also [http://music.jazzsequence.com](make electronic music).
+
+**Ask me anything.**
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
