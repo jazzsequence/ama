@@ -2,9 +2,9 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
-I'm a WordPress developer lead for [WebDevStudios](https://webdevstudios.com). I build [http://profiles.wordpress.org/jazzs3quence](plugins and themes). I also create [https://www.pluralsight.com/authors/chris-reynolds](online training courses) for [Pluralsight](http://pluralsight.com).
+I'm a WordPress developer lead for [WebDevStudios](https://webdevstudios.com). I build [plugins and themes](http://profiles.wordpress.org/jazzs3quence). I also create [online training courses](https://www.pluralsight.com/authors/chris-reynolds) for [Pluralsight](http://pluralsight.com).
 
-When I'm not working, I [https://jazzsequence.com](blog) -- sometimes about my [http://rsl.com](favorite soccer team) on a [http://www.rslsoapbox.com/authors/chris-reynolds](fan-driven blog) on [http://sbnation.com](SB Nation) called [http://rslsoapbox.com](RSL Soapbox). I also [http://music.jazzsequence.com](make electronic music).
+When I'm not working, I [blog](https://jazzsequence.com) -- sometimes about my [favorite soccer team](http://rsl.com) on a [fan-driven blog](http://www.rslsoapbox.com/authors/chris-reynolds) on [SB Nation](http://sbnation.com) called [RSL Soapbox](http://rslsoapbox.com). I also [make electronic music](http://music.jazzsequence.com).
 
 **Ask me anything.**
 
