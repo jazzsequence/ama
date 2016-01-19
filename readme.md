@@ -2,7 +2,7 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
-I'm a WordPress developer lead for [WebDevStudios](https://webdevstudios.com). I build [plugins and themes](http://profiles.wordpress.org/jazzs3quence). I also create [online training courses](https://www.pluralsight.com/authors/chris-reynolds) for [Pluralsight](http://pluralsight.com).
+I'm a developer lead for [WebDevStudios](https://webdevstudios.com). I build [WordPress plugins and themes](http://profiles.wordpress.org/jazzs3quence). I also create [online training courses](https://www.pluralsight.com/authors/chris-reynolds) for [Pluralsight](http://pluralsight.com).
 
 When I'm not working, I [blog](https://jazzsequence.com) -- sometimes about my [favorite soccer team](http://rsl.com) on a [fan-driven blog](http://www.rslsoapbox.com/authors/chris-reynolds) on [SB Nation](http://sbnation.com) called [RSL Soapbox](http://rslsoapbox.com). I also [make electronic music](http://music.jazzsequence.com).
 
