@@ -10,8 +10,6 @@ When I'm not working, I [blog](https://jazzsequence.com) -- sometimes about my [
 
 Anything means *anything*. Personal questions. Money. Work. Life. Music. Code. Whatever.
 
--
-
 ### Guidelines
 
 - Ensure your question hasn't already been answered.
